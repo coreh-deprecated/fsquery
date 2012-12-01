@@ -1,0 +1,10 @@
+{
+  "name": "fsquery",
+  "author": "Marco Aurelio <thecoreh@gmail.com>",
+  "description": "Query-based FileSystem API",
+  "tags": ["file", "system", "query"],
+  "version": "0.0.1",
+  "dependencies": {
+
+  }
+}
